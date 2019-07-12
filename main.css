@@ -12,5 +12,9 @@
     height: 300px;
     width: 550px;
     margin-top: 10px;
-    border-radius: 100px;
+    
+}
+
+.img {
+    align-item: center;
 }
